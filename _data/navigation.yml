@@ -2,13 +2,13 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Machine Learning"
-    url: /machine-learning/
-  - title: "Optimization"
-    url: /optimization/
-  - title: "Predictive Analsis"
-    url: /predictive-analysis/
-  - title: "Text Mining and Natural Language Processing"
-    url: /test-mining/
-  - title: "Visualization"
-    url: /visualization/
+  - title: "Data Science"
+    url: /data-science/
+#  - title: "Optimization"
+#    url: /optimization/
+#  - title: "Predictive Analsis"
+#    url: /predictive-analysis/
+#  - title: "Text Mining and Natural Language Processing"
+#    url: /test-mining/
+#  - title: "Visualization"
+#    url: /visualization/

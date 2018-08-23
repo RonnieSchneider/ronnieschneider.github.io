@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "Text Mining and Natural Language Processing"
 permalink: /text-mining/
