@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/image/collexi-bulb.jpg"
+  image: "/images/collexi-bulb.jpg"
 ---
 
 I am a data analyst with over 20 years of experience, looking to make a positive difference using my technical skills and ingenuity.

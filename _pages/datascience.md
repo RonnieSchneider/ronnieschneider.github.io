@@ -4,11 +4,11 @@ title: "Data Science"
 permalink: /data-science/
 author_profile: true
 header:
-  image: "/image/collexi-bulb.jpg"
+  image: "/images/collexi-bulb.jpg"
 ---
 
 {% include base_path %}
-{$ include group-by-array collection=site.posts field="tags" %}
+{% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}

@@ -4,4 +4,4 @@ title: "Optimization"
 permalink: /optimization/
 author_profile: true
 header:
-  image: "/image/collexi-bulb.jpg"
+  image: "/images/collexi-bulb.jpg"
