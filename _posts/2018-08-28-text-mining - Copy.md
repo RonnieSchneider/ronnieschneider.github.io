@@ -1,9 +1,9 @@
 ---
-title: "Machine Learning Project: Perceptron"
-date: 2018-01-28
-tags: [machine learning, data science, neural network]
+title: "Text Mining Project: Myers-Briggs Type Indicator Prediction in R using Message Board Posts"
+date: 2018-08-28
+tags: [text mining, naive bayes, regression, word cloud]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/project-Myers-Briggs-text-mining/Conference Poster - PDF Version.pdf
 excerpt: "Machine Learning, Perceptron, Data Science"
 mathjax: "true"
 ---
