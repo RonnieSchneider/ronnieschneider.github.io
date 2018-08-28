@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Data Science"
+title: "Data Science Posts by Tag"
 permalink: /data-science/
 author_profile: true
 header:
