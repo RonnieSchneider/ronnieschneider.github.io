@@ -4,4 +4,4 @@ title: "Machine Learning"
 permalink: /machine-learning/
 author_profile: true
 header:
-  image: "/images/collexi-bulb.jpg"
+  image: "/images/wooden-shoe-tulip-festival.jpg"
