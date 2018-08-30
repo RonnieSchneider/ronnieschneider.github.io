@@ -3,7 +3,7 @@ title: "Text Mining Project: Myers-Briggs Type Indicator Prediction in R using M
 date: 2018-08-28
 tags: [data science, text mining, naive bayes]
 header:
-  image: "/images/project-Myers-Briggs-text-mining/Conference Poster - PDF Version.pdf"
+  image: "/images/project-Myers-Briggs-text-mining/Conference Poster - PDF Version.jpg"
 excerpt: "Text Mining, Naive Bayes, Data Science"
 mathjax: "true"
 ---
@@ -16,6 +16,6 @@ This text mining/predictive analysis project yields a model that can predict MBT
 
 ## Competition
 
-My team's project was selected as a finalist in the Teradata University Network Analytics Challenge. [link](https://www.teradatauniversitynetwork.com/Community/Student-Competitions/2018/2018-TUN-Challenge-Finalists)?
+My team's project was selected as a finalist in the [2018 Teradata University Network Analytics Challenge](https://www.teradatauniversitynetwork.com/Community/Student-Competitions/2018/2018-TUN-Challenge-Finalists)
 
- I will be competing against 14 other teams in Las Vegas at the [link](https://analyticsuniverse.teradata.com/)? Conference in October.
+ I will be competing against 14 other teams in Las Vegas at the [Teradata Universe Conference](https://analyticsuniverse.teradata.com/) in October.
