@@ -1,63 +1,21 @@
 ---
-title: "Machine Learning Project: Perceptron"
-date: 2018-01-28
-tags: [machine learning, data science, neural network]
+title: "Text Mining Project: Myers-Briggs Type Indicator Prediction in R using Message Board Posts"
+date: 2018-08-28
+tags: [data science, text mining, naive bayes]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Machine Learning, Perceptron, Data Science"
+  image: "/images/project-Myers-Briggs-text-mining/Conference Poster - PDF Version.pdf"
+excerpt: "Text Mining, Naive Bayes, Data Science"
 mathjax: "true"
 ---
 
-# H1 Heading
+# Project Summary
+The philosophy behind the Myers-Briggs Type Indicator (MBTI) instrument is that it brings order to the chaos of every day choices; all of our seemingly random and unpredictable behaviors are in fact consistent patterns. The test determines an individual’s tendencies in four areas: Extroversion/Introversion, Sensing/Intuition, Thinking/Feeling, and Judging/Perceiving, yielding 16 types.
+Understanding personality type may help strengthen many areas of a person’s life. Type understanding may also benefit employee management, customer service, and marketing.
+This text mining/predictive analysis project yields a model that can predict MBTI type based upon a text sample, rather than a formal test.
 
-## H2 Heading
 
-### H3 Heading
+## Competition
 
-Here's some basic text.
+My team's project was selected as a finalist in the Teradata University Network Analytics Challenge. [link](https://www.teradatauniversitynetwork.com/Community/Student-Competitions/2018/2018-TUN-Challenge-Finalists)?
 
-And here's some *italics*
-
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
+ I will be competing against 14 other teams in Las Vegas at the [link](https://analyticsuniverse.teradata.com/)? Conference in October.
