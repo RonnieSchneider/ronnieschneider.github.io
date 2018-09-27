@@ -3,8 +3,8 @@ title: "Text Mining Project: Myers-Briggs Type Indicator Prediction in R using M
 date: 2018-08-28
 tags: [R, text mining]
 header:
-  image: "/images/project-Myers-Briggs-text-mining/Conference Poster.jpg"
-excerpt: "Text Mining, Prediction, Data Science"
+  image: "/images/project-Myers-Briggs-text-mining/2018.08.15 Conference Poster.jpg"
+excerpt: "R, Text Mining, Prediction"
 mathjax: "true"
 ---
 

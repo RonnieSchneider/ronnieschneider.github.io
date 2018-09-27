@@ -4,7 +4,7 @@ date: 2018-08-29
 tags: [R, visualization]
 header:
   image: "/images/projectMDG/hdi_overview.jpg"
-excerpt: "Data Science, Visualization, R"
+excerpt: "R, Visualization"
 mathjax: "true"
 ---
 
