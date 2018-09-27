@@ -1,7 +1,7 @@
 ---
 title: "Visualization Project: Millenium Development Goals"
 date: 2018-08-29
-tags: [data science, visualization, R]
+tags: [R, visualization]
 header:
   image: "/images/projectMDG/hdi_overview.jpg"
 excerpt: "Data Science, Visualization, R"

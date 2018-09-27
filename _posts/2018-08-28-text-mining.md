@@ -1,7 +1,7 @@
 ---
 title: "Text Mining Project: Myers-Briggs Type Indicator Prediction in R using Message Board Posts"
 date: 2018-08-28
-tags: [data science, text mining, prediction
+tags: [R, text mining]
 header:
   image: "/images/project-Myers-Briggs-text-mining/Conference Poster.jpg"
 excerpt: "Text Mining, Prediction, Data Science"
